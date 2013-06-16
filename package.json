@@ -1,0 +1,13 @@
+{
+  "name": "rework-count",
+  "version": "0.0.1",
+  "description": "style based on element count",
+  "keywords": [],
+  "author": "matthew mueller <mattmuelle@gmail.com>",
+  "dependencies": {},
+  "devDependencies": {
+    "rework": "*",
+    "better-assert": "*"
+  },
+  "main": "index"
+}

@@ -1,0 +1,27 @@
+/* one item */
+
+li:count(1) {
+  width: 100%;
+}
+
+/* two items */
+
+li:count(2) {
+  width: 50%;
+}
+
+/* three items */
+
+li:count(3) {
+  width: 33.3333%;
+}
+
+/* four items */
+
+li:count(4) {
+  width: 25%;
+}
+
+li:count(1-2), li:count(4) {
+  color: blue;
+}
