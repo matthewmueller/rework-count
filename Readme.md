@@ -7,9 +7,11 @@
 
 ## Usage
 
+```js
 rework(css)
   .use(count())
   .toString();
+```
 
 ## Example
 
