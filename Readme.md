@@ -1,7 +1,7 @@
 
 # rework-count
 
-  Rework plugin to style elements based on the sibling count.
+  [Rework](https://github.com/visionmedia/rework) plugin to style elements based on the sibling count.
 
   Based on Lea Verou's sibling count technique: http://lea.verou.me/2011/01/styling-children-based-on-their-number-with-css3/
 
